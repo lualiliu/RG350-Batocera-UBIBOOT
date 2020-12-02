@@ -1,0 +1,10 @@
+UBIBoot
+
+UBIBoot is a very small and simple bootloader for Ingenic JZ47xx based boards, which is able to start a Linux kernel located on a UBI partition.
+
+Developed for OpenDingux (http://www.treewalker.org/opendingux/)
+By Paul Cercueil <paul@crapouillou.net>
+
+For RG350 series, please use v11_ddr2_512mb
+
+(Batocera.linux ver)
